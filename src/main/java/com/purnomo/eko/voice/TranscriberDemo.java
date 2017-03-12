@@ -12,7 +12,6 @@ import edu.cmu.sphinx.api.StreamSpeechRecognizer;
 public class TranscriberDemo {
 
 	public static void main(String[] args) throws Exception {
-		// TODO Auto-generated method stub
 		
 		Configuration configuration = new Configuration();
 		configuration.setAcousticModelPath("resource:/edu/cmu/sphinx/models/en-us/en-us");
